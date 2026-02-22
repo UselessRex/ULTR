@@ -1379,7 +1379,7 @@
     "challenges_preludeFirst": "УБЕЙТЕ 5 ВРАГОВ, РАЗБИВ СТЕКЛЯННУЮ ПАНЕЛЬ",
     "challenges_preludeSecond": "ОДЕРЖИТЕ ПОБЕДУ В СЕКРЕТНОЙ СХВАТКЕ",
     "challenges_preludeThird": "УБЕЙТЕ ТОЛЬКО ОДНОГО ВРАГА",
-    "challenges_preludeFourth": "ПРОСКОЛЬЗИТЕ 17 СЕКУНД БЕЗ ОСТАНОВКИ",
+    "challenges_preludeFourth": "ПРОСКОЛЬЗИТЕ БЕЗ ОСТАНОВКИ 17 СЕКУНД",
     "challenges_preludeFifth": "НЕ ДОБИВАЙТЕ ПРОТИВНИКОВ",
     "challenges_limboFirst": "ПРОЙДИТЕ УРОВЕНЬ МЕНЬШЕ ЧЕМ ЗА 10 СЕКУНД",
     "challenges_limboSecond": "НЕ ПОДБИРАЙТЕ ЧЕРЕПА",
@@ -1389,12 +1389,12 @@
     "challenges_lustSecond": "ПРОЙДИТЕ УРОВЕНЬ МЕНЬШЕ ЧЕМ ЗА 60 СЕКУНД",
     "challenges_lustThird": "НЕ КАСАЙТЕСЬ ВОДЫ",
     "challenges_lustFourth": "ПАРИРУЙТЕ УДАР",
-    "challenges_gluttonyFirst": "УБЕЙТЕ ИСТРЕБИТЕЛЯ РАЗУМА КИСЛОТОЙ",
+    "challenges_gluttonyFirst": "УБЕЙТЕ СВЕЖИВАТЕЛЯ РАЗУМА КИСЛОТОЙ",
     "challenges_gluttonySecond": "СБРОСЬТЕ ГАВРИИЛА В ЯМУ",
     "challenges_greedFirst": "НЕ ТРЕВОЖЬТЕ ВРАГОВ",
     "challenges_greedSecond": "УБЕЙТЕ ПОВСТАНЦА МЕНЬШЕ ЧЕМ ЗА 10 СЕКУНД",
     "challenges_greedThird": "НЕ ПОДБИРАЙТЕ ФАКЕЛ",
-    "challenges_greedFourth": "ДОБЕРИТЕСЬ ДО КОМНАТЫ БОССА ЗА 18 СЕКУНД",
+    "challenges_greedFourth": "ДОБЕРИТЕСЬ ДО ВРАТ БОССА МЕНЬШЕ ЧЕМ ЗА 18 СЕКУНД",
     "challenges_wrathFirst": "НЕ КАСАЙТЕСЬ ВОДЫ",
     "challenges_wrathSecond": "НЕ СРАЖАЙТЕСЬ С ПАРОМЩИКОМ",
     "challenges_wrathThird": "НЕ КАСАЙТЕСЬ ВОДЫ",
@@ -2736,3 +2736,4 @@
   }
 
 }
+
