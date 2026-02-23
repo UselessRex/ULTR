@@ -137,7 +137,7 @@
     "tutorial_introRed2": "КРОВЬ — ТОПЛИВО.",
     "tutorial_introRed3": "АД — ПЕРЕПОЛНЕН.",
     "tutorial_punch1": "Нажмите «",
-    "tutorial_punch2": "», чтобы <color=orange>УДАРИТЬ КУЛАКОМ</color>.",
+    "tutorial_punch2": "», чтобы <color=orange>УДАРИТЬ</color>.",
     "tutorial_slide1": "Удерживайте «",
     "tutorial_slide2": "», чтобы <color=orange>СКОЛЬЗИТЬ</color>.",
     "tutorial_dash1": "Нажмите « ",
@@ -168,24 +168,24 @@
   },
   "prelude": {
     "prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> ПРЕДСТАВЛЯЕТ",
-    "prelude_first_openingCredits2": "<color=orange>ИГРА</color> ОТ АРСИ \"<color=orange>ХАКИТА</color>\" ПАТАЛА",
-    "prelude_first_pipeClip": "\"ПРОХОД ЧЕРЕЗ ТРУБУ НИКУДА НЕ ДЕЛСЯ!\"$Т. ХАКИТА",
+    "prelude_first_openingCredits2": "<color=orange>ИГРА</color> АРСИ \"<color=orange>HAKITA</color>\" ПАТАЛА",
+    "prelude_first_pipeClip": "«ПРОХОД ЧЕРЕЗ ТРУБУ НИКУДА НЕ ДЕЛСЯ!»$T. HAKITA",
     "prelude_first_revolverPierce1": "<color=#40E7FF>РЕВОЛЬВЕР</color>: Удерживайте",
     "prelude_first_revolverPierce2": ", чтобы зарядить\n<color=orange>ПРОБИВАЮЩИЙ</color> выстрел.",
-    "prelude_first_parry": "<color=orange>УДАРЬТЕ СНАРЯД</color> в правильный момент, чтобы <color=orange>ПАРИРОВАТЬ</color> его.",
+    "prelude_first_parry": "<color=orange>УДАРЬТЕ СНАРЯД</color> в правильный момент, чтобы <color=orange>ОТРАЗИТЬ</color> его.",
     "prelude_first_hardDamage1": "Получение урона <color=orange>ВРЕМЕННО</color> понижает <color=orange>МАКСИМАЛЬНОЕ ЗДОРОВЬЕ</color>.",
-    "prelude_first_hardDamage2": "\"<color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color>\" убывает быстрее при <color=orange>СТИЛЬНОЙ</color> игре.",
-    "prelude_first_groundSlam1": "<color=orange>УДАР О ЗЕМЛЮ</color> (",
-    "prelude_first_groundSlam2": ") наносит урон\nпри прямом падении на врага.",
-    "prelude_second_shop": "Используйте свои <color=orange>ОЧКИ</color> в <color=orange>МАГАЗИНЕ</color> в начале каждого уровня, чтобы покупать новое снаряжение.",
-    "prelude_second_doorClip": "\"ЧЁ СВЕРХУ?\"$Т. ХАКИТА",
-    "prelude_second_changeEquipped": "Менять <color=orange>ЭКИПИРОВАННЫЕ</color> вариации оружий можно на",
-    "prelude_third_needShotgun": "<color=red>НЕДОСТАТОЧНАЯ ОГНЕВАЯ МОЩЬ</color>",
-    "prelude_third_shotgun1": "<color=#40E7FF>ДРОБОВИК</color>: Нажмите ",
-    "prelude_third_shotgun2": ", чтобы выпустить ядро.",
+    "prelude_first_hardDamage2": "«<color=#CCCCCC>КРИТИЧЕСКИЙ УРОН</color>» убывает быстрее при <color=orange>СТИЛЬНОЙ</color> игре.",
+    "prelude_first_groundSlam1": "<color=orange>УДАР ОЗЕМЬ</color> (",
+    "prelude_first_groundSlam2": ") наносит урон\nпри прямом попадании по врагу.",
+    "prelude_second_shop": "В начале каждего уровня вы можете можете за свои <color=orange>ОЧКИ ПОКУПАТЬ</color> новое снаряжение.",
+    "prelude_second_doorClip": "«НЕ ЗНАЮ НИКАКИХ ДВЕРХНЫХ ПОДЪЁМОВ»$T. HAKITA",
+    "prelude_second_changeEquipped": "Переключаться между <color=orange>ЭКИПИРОВАННМИ</color> оружиями можно на",
+    "prelude_third_needShotgun": "<color=red>НЕДОСТАТОЧНО ОГНЕВОЙ МОЩИ</color>",
+    "prelude_third_shotgun1": "<color=#40E7FF>ДРОБОВИК</color>: Нажмите «,
+    "prelude_third_shotgun2": ", чтобы выстрелить взрывчаткой.",
     "prelude_third_shotgun3": "Удерживайте, чтобы увеличить дальность выстрела.",
     "prelude_third_shotgunPierce": "<color=#40E7FF>ДРОБОВИК</color>: Основной режим пробивает слабых врагов.",
-    "prelude_secret_somethingWicked": "Что-то грешное спешит."
+    "prelude_secret_somethingWicked": "Что-то страшное грядёт."
   },
   "act1": {
     "act1_limboFirst_items1": "Нажмите",
@@ -201,7 +201,7 @@
     "act1_limboFourth_hank2": "Вы решили назвать его 'Хэнк'.",
     "act1_limboFourth_alternateRevolver": "<color=orange>АЛЬТЕРНАТИВНЫЙ РЕВОЛЬВЕР</color>: Высокий урон.\nПосле каждого выстрела нужно взводить курок.",
     "act1_limboFourth_newArm": "Переключайтесь между экипированными <color=orange>РУКАМИ</color> на",
-    "act1_limboSecret_noclipSkip": "\"ПОХОЖЕ, ТЫ СХОДИШЬ С УМА\"$Т. ХАКИТА",
+    "act1_limboSecret_noclipSkip": "\"ПОХОЖЕ, ТЫ СХОДИШЬ С УМА\"$T. HAKITA",
     "act1_lustFirst_knuckleblaster1": "<color=red>ВЗРЫВКАСТЕТ</color>: <color=orange>УДЕРЖИВАЙТЕ</color>",
     "act1_lustFirst_knuckleblaster2": ", чтобы создать <color=orange>ВЗРЫВНУЮ ВОЛНУ</color> и отбросить врагов.",
     "act1_lustFirst_dashJump": "Совершите <color=orange>ПРЫЖОК</color> сразу после <color=#00FFFF>РЫВКА</color>, чтобы выполнить <color=#00FFFF>ПРЫЖОК ИЗ РЫВКА</color>. Нельзя выполнить в воздухе.",
@@ -216,7 +216,7 @@
   },
   "act2": {
     "act2_greedSecond_sand": "ВРАГИ, ПОКРЫТЫЕ ПЕСКОМ, <color=red>НЕ ИСТЕКАЮТ КРОВЬЮ</color>",
-    "act2_greedThird_wallClip": "\"ОТБРОСОВ БОЛЬШЕ НЕТ, НО ВОСПОМИНАНИЯ ОСТАНУТСЯ.\"$Т. ХАКИТА",
+    "act2_greedThird_wallClip": "\"ОТБРОСОВ БОЛЬШЕ НЕТ, НО ВОСПОМИНАНИЯ ОСТАНУТСЯ.\"$T. HAKITA",
     "act2_greedThird_troll1": "Что-то грешное спешит.",
     "act2_greedThird_troll2": "Шучу :)",
     "act2_greedThird_tombOfKings": "ГРОБНИЦА КОРОЛЕЙ",
@@ -2736,6 +2736,7 @@
   }
 
 }
+
 
 
 
