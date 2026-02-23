@@ -220,7 +220,7 @@
     "act2_greedThird_troll1": "Что-то грешное спешит.",
     "act2_greedThird_troll2": "Шучу :)",
     "act2_greedThird_tombOfKings": "ГРОБНИЦА КОРОЛЕЙ",
-    "act2_greedFourth_alternateNailgun": "<color=orange>ЕРНАТИВНЫЙ ГВОЗДЕМЁТ</color>: Низкая скорострельность.\nСнаряды отскакивают от поверхностей и прошивают врагов.",
+    "act2_greedFourth_alternateNailgun": "<color=orange>АЛЬТЕРНАТИВНЫЙ ГВОЗДЕМЁТ</color>: Низкая скорострельность.\nСнаряды отскакивают от поверхностей и прошивают врагов.",
     "act2_greedFourth_v2": "На этот раз ты не сбежишь.",
     "act2_greedFourth_whiplash1": "<color=#00FF00>ХЛЫСТ</color>: Удерживайте",
     "act2_greedFourth_whiplash2": ", чтобы бросить. Отпустите, чтобы тянуть.",
@@ -264,7 +264,7 @@
     "act3_violenceSecond_payloadControlError1": "ОШИБКА",
     "act3_violenceSecond_payloadControlError2": "<size=10>ЗАГРУЗЧИКУ ТРЕБУЕТСЯ ВАГОНЕТКА</size>",
     "act3_violenceSecond_payloadControlHell": "<size=96%>ПОКАЖИ ИМ\n А Д ,\nМАЛОЙ</size>",
-    "act3_violenceSecond_alternateShotgun": "<color=orange>ЕРНАТИВНЫЙ ДРОБОВИК</color>: только ближний бой.\nДвигайтесь быстрее, чтобы нанести больше урона.",
+    "act3_violenceSecond_alternateShotgun": "<color=orange>АЛЬТЕРНАТИВНЫЙ ДРОБОВИК</color>: только ближний бой.\nДвигайтесь быстрее, чтобы нанести больше урона.",
     "act3_violenceThird_feedIt": "<size=96%>Н А П О И   Е Г О</size>",
     "act3_violenceThird_becomeMarked": "СТАТЬ ОТМЕЧЕННЫМ СМЕРТЬЮ?",
     "act3_violenceThird_becomeMarkedButton": "Д А",
@@ -561,7 +561,7 @@
     "museum_bookJerichoRus3": "Некоторые из его самых крупных вкладов включают:",
     "museum_bookJerichoRus4": "- Дизайн для V1 и Гавриила",
     "museum_bookJerichoRus5": "- Дизайн для многих врагов, таких как Дрон, Чистильщик и Солдат",
-    "museum_bookJerichoRus6": "- Дизайн для всего оружия и ернативных видов оружия, за исключением оригинального револьвера и дробовика",
+    "museum_bookJerichoRus6": "- Дизайн для всего оружия и альтернативных видов оружия, за исключением оригинального револьвера и дробовика",
     "museum_bookJerichoRus7": "- Основной промо-арт, который используется в качестве обложки игры",
     "museum_bookJerichoRus8": "- Большинство текстур уровней, включая все текстуры уровней для слоёв 2-4",
     "museum_bookJerichoRus9": "- Все арты для антрактов и 2-S",
@@ -2736,6 +2736,7 @@
   }
 
 }
+
 
 
 
