@@ -56,7 +56,7 @@
         "difficulty_brutalDescription3": "Рекомендуется для игроков, которые уже имеют значительный опыт игры и ищут новые испытания.",
         "difficulty_tweakReminder": "[ СЛОЖНОСТЬ МОЖНО НАСТРОИТЬ ВРУЧНУЮ В НАСТРОЙКАХ ПОДДЕРЖКИ ]",
         "difficulty_underConstruction": "В РАЗРАБОТКЕ",
-        "chapter_title": "ГЛАВЫ",
+        "chapter_title": "ОГЛАВЛЕНИЕ",
         "chapter_type_primary": "ОСНОВНОЕ",
         "chapter_prelude": "ПРЕЛЮДИЯ",
         "chapter_act1": "АКТ I: НЕСКОНЧАЕМАЯ\n       ГИПЕРСМЕРТЬ",
@@ -108,7 +108,7 @@
     "tutorial_calibrationMechanics": "МЕХАНИКИ",
     "tutorial_calibrationComplete1": "КАЛИБРОВКА ЗАВЕРШЕНА",
     "tutorial_calibrationComplete2": "ГЛАВНЫЕ НАСТРОЙКИ ОБНОВЛЕНЫ",
-    "tutorial_introReminder": "НАСТРОЙКИ ПОМОЩИ ДОСТУПНЫ В МЕНЮ ПАУЗЫ",
+    "tutorial_introReminder": "НАСТРОЙКИ ПОДДЕРЖКИ ДОСТУПНЫ В МЕНЮ ПАУЗЫ",
     "tutorial_systemsOperational": "ВСЕ СИСТЕМЫ РАБОТАЮТ",
     "tutorial_introLoadStatus": "ЗАГРУЗКА СОСТОЯНИЯ",
     "tutorial_introStatusUpdate": "ОБНОВЛЕНИЕ СОСТОЯНИЯ",
@@ -130,25 +130,25 @@
     "tutorial_introID1": "ИДЕНТИФИКАТОР",
     "tutorial_introID2": "   V1",
     "tutorial_introLocation1": "МЕСТОПОЛОЖЕНИЕ",
-    "tutorial_introLocation2": "  ПРИБЛИЖЕНИЕ К АДУ",
+    "tutorial_introLocation2": "  ПРИБЛИЖАЕТСЯ К АДУ",
     "tutorial_introObjective1": "ТЕКУЩАЯ ЦЕЛЬ",
     "tutorial_introObjective2": "     НАЙТИ ОРУЖИЕ",
     "tutorial_introRed1": "ЧЕЛОВЕЧЕСТВО — МЕРТВО.",
     "tutorial_introRed2": "КРОВЬ — ТОПЛИВО.",
-    "tutorial_introRed3": "АД — ПОЛОН.",
-    "tutorial_punch1": "Нажмите '",
-    "tutorial_punch2": "', чтобы выполнить <color=orange>УДАР</color>.",
-    "tutorial_slide1": "Удерживайте '",
-    "tutorial_slide2": "', чтобы выполнить <color=orange>СКОЛЬЖЕНИЕ</color>.",
-    "tutorial_dash1": "Нажмите ' ",
-    "tutorial_dash2": "', для <color=#00DFFF>РЫВКА</color> через опасность.",
-    "tutorial_dash3": "Расходует <color=#00DFFF>ЭНЕРГИЮ</color>. Можно выполнить в воздухе.",
+    "tutorial_introRed3": "АД — ПЕРЕПОЛНЕН.",
+    "tutorial_punch1": "Нажмите «",
+    "tutorial_punch2": "», чтобы <color=orange>УДАРИТЬ КУЛАКОМ</color>.",
+    "tutorial_slide1": "Удерживайте «",
+    "tutorial_slide2": "», чтобы <color=orange>СКОЛЬЗИТЬ</color>.",
+    "tutorial_dash1": "Нажмите « ",
+    "tutorial_dash2": "», чтобы совершить <color=#00DFFF>РЫВОК</color> сквозь препятствия.",
+    "tutorial_dash3": "Расходует <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>. Можно выполнить в воздухе.",
     "tutorial_health1": "Нанесите урон вблизи, чтобы облить себя <color=red>СВЕЖЕЙ КРОВЬЮ</color>.",
     "tutorial_health2": "<color=red>ЭТО ЕДИНСТВЕННЫЙ СПОСОБ ВОССТАНОВИТЬ ЗДОРОВЬЕ</color>.",
     "tutorial_walljump": "<color=orange>ПРЫГНИТЕ</color>, находясь рядом со <color=orange>СТЕНОЙ</color>, чтобы выполнить <color=orange>ПРЫЖОК ОТ СТЕНЫ</color>. (Макс. 3 раза)",
-    "tutorial_shockwave1": "Нажмите '",
-    "tutorial_shockwave2": "' в воздухе, чтобы выполнить",
-    "tutorial_shockwave3": "<color=orange>УДАР О ЗЕМЛЮ</color>. Удерживайте для <color=orange>УДАРНОЙ ВОЛНЫ</color>.",
+    "tutorial_shockwave1": "Нажмите «",
+    "tutorial_shockwave2": "» в воздухе, чтобы совершить",
+    "tutorial_shockwave3": "<color=orange>УДАР ОЗЕМЬ</color>. Удерживайте для <color=orange>УДАРНОЙ ВОЛНЫ</color>.",
     "tutorial_orb1": "На многих уровнях можно найти секретные <color=#00FFFF>СФЕРЫ ДУШ</color>.",
     "tutorial_orb2": "Собирайте их, чтобы получить <color=orange>ДОПОЛНИТЕЛЬНЫЕ ОЧКИ</color>."
   },
@@ -2736,6 +2736,7 @@
   }
 
 }
+
 
 
 
