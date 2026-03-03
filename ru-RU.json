@@ -226,26 +226,26 @@
     "act2_greedFourth_whiplash2": ", чтобы бросить. Отпустите, чтобы тянуть.",
     "act2_greedFourth_whiplash3": "<color=#00FF00>ХЛЫСТ</color>: Притягивайте <color=orange>ЛЁГКИХ</color> врагов к себе, притягивайтесь к <color=orange>ТЯЖЁЛЫМ</color>.",
     "act2_greedFourth_whiplashHardDamage1": "<color=#00FF00>ХЛЫСТ</color>: Наносит <color=#CCCCCC>КРИТИЧЕСКИЙ УРОН</color> при использовании на <color=orange>ВРАГАХ</color>.",
-    "act2_greedFourth_whiplashHardDamage2": "<color=orange>НЕ НАНОСИТ УРОН</color>, но рискованно использовать при низком уровне здоровья.",
+    "act2_greedFourth_whiplashHardDamage2": "<color=orange>НЕ СНИЖАЕТ КОЛИЧЕСТВО ЗДОРОВЬЯ</color>, но рискованно использовать при его малом значении.",
     "act2_greedSecret_holdToJump1": "УДЕРЖИВАЙТЕ [",
     "act2_greedSecret_holdToJump2": "], ЧТОБЫ ОТСКОЧИТЬ ВЫШЕ",
     "act2_greedSecret_transactionComplete1": "ПЕРЕВОД ЗАВЕРШЁН",
     "act2_greedSecret_transactionComplete2": "МОНЕТ",
     "act2_greed_secretDoor": "Дверь открылась.",
     "act2_wrathFirst_slingshot": "<color=#00FFFF>СИНИЕ ТОЧКИ ЗАЦЕПА</color> работают как рогатки.",
-    "act2_wrathFirst_whiplashUnderwater": "<color=#00FF00>ХЛЫСТ</color>: <color=orange>НЕ</color> наносит <color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color> <color=orange>ПОД ВОДОЙ</color>.",
+    "act2_wrathFirst_whiplashUnderwater": "<color=#00FF00>ХЛЫСТ</color>: <color=orange>НЕ</color> наносит <color=#CCCCCC>КРИТИЧЕСКИЙ УРОН</color> <color=orange>ПОД ВОДОЙ</color>.",
     "act2_wrathFirst_waterDrained": "Вы спустили воду.",
-    "act2_wrathFirst_sentry": "<color=#00FF00>ПРЕРВИТЕ ТУРЕЛИ</color>:\nВзрывкастетом (Красная рука) <color=orange>//</color> Рельсотроном <color=orange>//</color> Ударной волной от приземления <color=orange>//</color> из Револьвера по антенне",
+    "act2_wrathFirst_sentry": "<color=#00FF00>ТО, ЧТО ПРЕРЫВАЕТ ТУРЕЛИ</color>:\nВзрывкастет (красная рука) <color=orange>//</color> Рельсотрон <color=orange>//</color> Ударная волна от удара оземь <color=orange>//</color> попадание из револьвера по антенне",
     "act2_wrathSecond_jakito1": "<color=red>Я ЖАКИТО. ПРИНЕСИ МНЕ ЖЕРТВУ. ЭТО ДАСТ МНЕ СИЛЫ ВЫРВАТЬСЯ.</color>",
-    "act2_wrathSecond_jakito2": "<color=red>СПАСИБО. ТЕПЕРЬ Я УНИЧТОЖУ ЭТОТ МИР.</color>",
-    "act2_wrathSecond_jakito3": "<color=red>НЕТ. ЖЕРТВОЙ ДОЛЖНА БЫТЬ НЕВИННАЯ ПЛОТЬ.</color>",
+    "act2_wrathSecond_jakito2": "<color=red>СПАСИБО. И ТЕПЕРЬ Я СОТРУ ЭТОТ МИР.</color>",
+    "act2_wrathSecond_jakito3": "<color=red>НЕТ. ЭТО ДОЛЖНА БЫТЬ НЕВИННАЯ ПЛОТЬ.</color>",
     "act2_wrathSecond_neptune": "Услышь! Нептун покарал их.",
-    "act2_wrathSecond_idol": "<color=#00FFFF>ИДОЛЫ</color> могут быть уничтожены только в <color=orange>БЛИЖНЕМ БОЮ</color>.",
-    "act2_wrathThird_rocketLauncher": "<color=#40E7FF>РАКЕТОМЁТ</color>: <color=orange>ПРЯМЫЕ</color> попадания создают <color=orange>ВЗРЫВЫ</color>.\nНепрямые попадания запускают врагов в воздух.",
-    "act2_wrathThird_rocketLauncherMidair": "<color=#40E7FF>РАКЕТОМЁТ</color>: Прямые попадания по <color=orange>ПАДАЮЩИМ</color> врагам создают <color=orange>БОЛЬШИЕ</color> взрывы.",
-    "act2_wrathThird_soldierBlock": "Солдаты <color=orange>НЕ МОГУТ</color> блокировать взрывы <color=orange>В ПОЛЁТЕ</color>. Выпустите ракету им <color=orange>ПОД НОГИ</color>, чтобы запустить их в воздух.",
-    "act2_wrathThird_hank": "Ничего не произошло, но вы уверены, что Хэнк Мл. и его Хэнкпредки были бы благодарны за это... Если бы они не были мертвы.",
-    "act2_heresyFirst_armboy": "Р У К А С Т И К ! ! !"
+    "act2_wrathSecond_idol": "<color=#00FFFF>ИДОЛЫ</color> можно сломать только в <color=orange>БЛИЖНЕМ БОЮ</color>.",
+    "act2_wrathThird_rocketLauncher": "<color=#40E7FF>РАКЕТНИЦА</color>: При попадании в <color=orange>ЦЕЛЬ</color> ракета <color=orange>ВЗРЫВАЕТСЯ</color>.\nПромахи запускают врагов в воздух.",
+    "act2_wrathThird_rocketLauncherMidair": "<color=#40E7FF>РАКЕТОМЁТ</color>:  При попадании в <color=orange>ПАДАЮЩУЮ</color> врага ракета взрывается <color=orange>МОЩНЕЕ</color>.",
+    "act2_wrathThird_soldierBlock": "Солдаты <color=orange>НЕ МОГУТ</color> блокировать взрывы будучи в <color=orange>ВОЗДУХЕ</color>. Выпустите ракету им <color=orange>ПОД НОГИ</color>, чтобы запустить их в воздух.",
+    "act2_wrathThird_hank": "Ничего не произошло, но вы уверены, что Хэнк-младший и его Хэнк-предки были бы благодарны за это... Если бы они не были мертвы.",
+    "act2_heresyFirst_armboy": "Р У К А С Т И К !"
   },
   "act3": {
     "act3_violenceFirst_doorOpens": "Дверь открылась.",
@@ -2864,4 +2864,5 @@
   }
 
 }
+
 
