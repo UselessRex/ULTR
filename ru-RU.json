@@ -249,7 +249,7 @@
   },
   "act3": {
     "act3_violenceFirst_doorOpens": "Дверь открылась.",
-    "act3_violenceSecond_guttermanTutorial": "<color=orange>ЩИТ ОКОПНИКА</color> можно <color=orange>СЛОМАТЬ</color> с помощью <color=red>ВЗРЫВКАСТЕТА</color>. Сменить руку на",
+    "act3_violenceSecond_guttermanTutorial": "<color=orange>ЩИТ ТРАНШЕЙНИКА</color> можно <color=orange>СЛОМАТЬ</color> с помощью <color=red>ВЗРЫВКАСТЕТА</color>. Сменить руку на",
     "act3_violenceSecond_guttermanTutorialNoKB": "<color=orange>ЩИТ ОКОПНИКА</color> можно <color=orange>СЛОМАТЬ</color> с помощью <color=red>ВЗРЫВКАСТЕТА</color>. Возможно, вам стоит экипировать его.",
     "act3_violenceSecond_biggerBoom": "НУЖЕН БУМ ПОБОЛЬШЕ",
     "act3_violenceSecond_gateControlTitle": "УПРАВЛЕНИЕ ВОРОТАМИ",
@@ -302,11 +302,11 @@
     "power_glaiveThrow": null
   },
   "encore": {
-    "encorePrelude_aboutRadiantEnemies": "<color=orange>СИЯЮЩИЕ</color> враги быстрее и крепче обычных.",
+    "encorePrelude_aboutRadiantEnemies": "<color=orange>ЛУЧЕЗАРНЫЕ</color> враги быстрее и крепче обычных.",
     "encorePrelude_heatResistanceWarn": "<size=95%>ВНИМАНИЕ:</size>",
     "encorePrelude_heatResistanceText": "ЭКСТРЕМАЛЬНЫЙ ПЕРЕПАД ТЕМПЕРАТУРЫ\nЦЕЛОСТНОСТЬ ТЕПЛОВОГО ЩИТА НАРУШЕНА.",
     "encorePrelude_heatResistanceTitle": "<size=92%>ТЕПЛОУСТОЙЧИВОСТЬ</size>",
-    "encorePrelude_heatResistanceRepaired": "ИСПРАВНО:",
+    "encorePrelude_heatResistanceRepaired": "ИСПРАВНО:"
     "encorePrelude_heatResistanceRepairedText": "<size=95%>ВОССТАНОВЛЕНА ФУНКЦИЯ\nРЕГУЛЯЦИИ ТЕМПЕРАТУРЫ.\nТЕПЛОВОЙ ЩИТ ОТРЕМОНТИРОВАН.</size>",
     "encoreLimbo_warningText": "<size=6>!! ВНИМАНИЕ !!</size>\n\nПИТАНИЕ ОТКЛЮЧЕНО\nОТКАЗ СИСТЕМ"
   },
@@ -323,12 +323,12 @@
     "cybergrind_total": "ИТОГ",
     "cybergrind_connectingToSteam": "ПОДКЛЮЧЕНИЕ К\nSTEAMWORKS",
     "cybergrind_friendScores": "РЕКОРДЫ ДРУЗЕЙ",
-    "cybergrind_globalScores": "ГЛОБАЛЬНЫЕ РЕКОРДЫ",
+    "cybergrind_globalScores": "ОБЩИЕ РЕКОРДЫ",
     "cybergrind_settings": "НАСТРОЙКИ КИБЕРБОЙНИ",
     "cybergrind_settingsDescription": "Этот терминал используется для настройки Кибербойни.",
     "cybergrind_themes": "ТЕМЫ",
     "cybergrind_music": "МУЗЫКА",
-    "cybergrind_patterns": "ПАТТЕРНЫ",
+    "cybergrind_patterns": "ШАБЛОНЫ",
     "cybergrind_waves": "ВОЛНЫ",
     "cybergrind_themesTitle": "ТЕМЫ",
     "cybergrind_themesDescription": "Выберите визуальную тему для арены",
@@ -369,18 +369,18 @@
     "cybergrind_musicFolderNameAct2": "АКТ 2",
     "cybergrind_musicFolderNameAct3": "АКТ 3",
     "cybergrind_musicFolderNameSecret": "СЕКРЕТНЫЕ УРОВНИ",
-    "cybergrind_musicFolderNamePrime": "СВЯТИЛИЩА ПРАЙМ",
+    "cybergrind_musicFolderNamePrime": "ПЕРВОРОДНЫЕ СВЯТИЛИЩА",
     "cybergrind_musicFolderNameMisc": "РАЗНЫЕ ТРЕКИ",
-    "cybergrind_musicFolderNameEncores": "РЕВАНШ УРОВНИ",
-    "cybergrind_patternsWarning": "ВНИМАНИЕ: РЕКОРД НЕ СОХРАНЯЕТСЯ ПРИ ИСПОЛЬЗОВАНИИ ПОЛЬЗОВАТЕЛЬСКИХ ПАТТЕРНОВ",
-    "cybergrind_patternsTitle": "ПАТТЕРНЫ",
+    "cybergrind_musicFolderNameEncores": "УРОВНИ НА БИС",
+    "cybergrind_patternsWarning": "ВНИМАНИЕ: РЕКОРД НЕ СОХРАНЯЕТСЯ ПРИ ИСПОЛЬЗОВАНИИ ПОЛЬЗОВАТЕЛЬСКИХ ШАБЛОН",
+    "cybergrind_patternsTitle": "ШАБЛОНЫ",
     "cybergrind_patternsRefresh": "<size=14>ОБНОВИТЬ</size>",
     "cybergrind_patternsLaunchExternalEditor": "<size=14>РЕДАКТОР</size>",
-    "cybergrind_patternsSwitchButton": "ПЕРЕКЛЮЧИТЬ ПАТТЕРНЫ",
+    "cybergrind_patternsSwitchButton": "ПЕРЕКЛЮЧИТЬ ШАБЛОНОВ",
     "cybergrind_wavesTitle": "ВОЛНЫ",
     "cybergrind_wavesDescription1": "ВЫБРАТЬ СТАРТОВУЮ ВОЛНУ",
-    "cybergrind_wavesDescription2": "(Максимально достигнутая волна должна быть как минимум в два раза выше)",
-    "cybergrind_noPatternsSelected": "НЕ ВЫБРАН ПАТТЕРН."
+    "cybergrind_wavesDescription2": "(Должна быть хотя бы в 2 раза меньше рекордной)",
+    "cybergrind_noPatternsSelected": "НЕ ВЫБРАН ШАБЛОН."
   },
   "primeSanctum": {
     "primeSanctum_first_insufficientlight": "<color=red>ВНИМАНИЕ:</color> НЕДОСТАТОЧНО СВЕТА.$<color=orange>РЕКОМЕНДАЦИЯ:</color> Вернитесь и возьмите факел.",
@@ -2864,5 +2864,6 @@
   }
 
 }
+
 
 
