@@ -217,15 +217,15 @@
   "act2": {
     "act2_greedSecond_sand": "ВРАГИ, ПОКРЫТЫЕ ПЕСКОМ, <color=red>НЕ ИСТЕКАЮТ КРОВЬЮ</color>",
     "act2_greedThird_wallClip": "\"ОТБРОСОВ БОЛЬШЕ НЕТ, НО ВОСПОМИНАНИЯ ОСТАНУТСЯ.\"$T. HAKITA",
-    "act2_greedThird_troll1": "Что-то грешное спешит.",
+    "act2_greedThird_troll1": "Что-то страшное грядёт.",
     "act2_greedThird_troll2": "Шучу :)",
-    "act2_greedThird_tombOfKings": "ГРОБНИЦА КОРОЛЕЙ",
-    "act2_greedFourth_alternateNailgun": "<color=orange>АЛЬТЕРНАТИВНЫЙ ГВОЗДЕМЁТ</color>: Низкая скорострельность.\nСнаряды отскакивают от поверхностей и прошивают врагов.",
+    "act2_greedThird_tombOfKings": "ГРОБНИЦА ЦАРЕЙ",
+    "act2_greedFourth_alternateNailgun": "<color=orange>АЛЬТЕРНАТИВНЫЙ ГВОЗДЕМЁТ</color>: Скорострельность ниже.\nПилы рикошетят от поверхностей.",
     "act2_greedFourth_v2": "На этот раз ты не сбежишь.",
     "act2_greedFourth_whiplash1": "<color=#00FF00>ХЛЫСТ</color>: Удерживайте",
     "act2_greedFourth_whiplash2": ", чтобы бросить. Отпустите, чтобы тянуть.",
-    "act2_greedFourth_whiplash3": "<color=#00FF00>ХЛЫСТ</color>: Притягивайте <color=orange>МЕЛКИХ</color> врагов к себе, притягивайте себя к <color=orange>КРУПНЫМ</color> врагам.",
-    "act2_greedFourth_whiplashHardDamage1": "<color=#00FF00>ХЛЫСТ</color>: Наносит <color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color> при использовании на <color=orange>ВРАГАХ</color>.",
+    "act2_greedFourth_whiplash3": "<color=#00FF00>ХЛЫСТ</color>: Притягивайте <color=orange>ЛЁГКИХ</color> врагов к себе, притягивайтесь к <color=orange>ТЯЖЁЛЫМ</color>.",
+    "act2_greedFourth_whiplashHardDamage1": "<color=#00FF00>ХЛЫСТ</color>: Наносит <color=#CCCCCC>КРИТИЧЕСКИЙ УРОН</color> при использовании на <color=orange>ВРАГАХ</color>.",
     "act2_greedFourth_whiplashHardDamage2": "<color=orange>НЕ НАНОСИТ УРОН</color>, но рискованно использовать при низком уровне здоровья.",
     "act2_greedSecret_holdToJump1": "УДЕРЖИВАЙТЕ [",
     "act2_greedSecret_holdToJump2": "], ЧТОБЫ ОТСКОЧИТЬ ВЫШЕ",
@@ -2864,3 +2864,4 @@
   }
 
 }
+
