@@ -2778,7 +2778,7 @@
     "enemyAlter_hookPointTitle": "ТОЧКА ЗАЦЕПА",
     "enemyAlter_power": "СИЛА",
     "enemyAlter_radianceTitle": "ЛУЧЕЗАРНОСТЬ",
-    "enemyAlter_radianceEnable": "ВКЛЮЧИТЬ ЛУЧЕЗАРНОСТЬ",
+    "enemyAlter_radianceEnable": "<size=32>ВКЛЮЧИТЬ ЛУЧЕЗАРНОСТЬ</size>",
     "enemyAlter_radianceDetails_tier": "РАНГ",
     "enemyAlter_radianceDamage_tier": "УРОН",
     "enemyAlter_radianceHealth_tier": "<size=10>ЗДОРОВЬЕ</size>",
