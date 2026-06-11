@@ -2080,7 +2080,7 @@
     "leveltips_devMuseum": "Вы можете подобрать <color=#FF4343>вырезанное оружие</color> на <color=#FF4343>втором этаже</color>."
   },
   "books": {
-    "books_scanning": "<size=20>СКАНИРУЕТСЯ...</size>",
+    "books_scanning": "<size=40>СКАНИРУЕТСЯ...</size>",
     "books_pressToClose1": "НАЖМИТЕ",
     "books_pressToClose2": ", чтобы ЗАКРЫТЬ",
     "books_limboFourth1": "ТЕКСТ ПРОСКАНИРОВАН — УНИКАЛЬНЫЙ ОТРЫВОК:",
@@ -2588,7 +2588,7 @@
     "style_lightningbolt": "<size=90%>ОСЕДЛАЙ МОЛНИЮ</size>",
     "style_limbshot": "В КОНЕЧНОСТЬ",
     "style_mauriced": "ЗАМОРИСНУТ",
-    "style_multikill": "<size=40>МУЛЬТИУБИЙСТВО</size>",
+    "style_multikill": "<size=20>МУЛЬТИУБИЙСТВО</size>",
     "style_nailbombed": "ГВОЗДЕБОМБА",
     "style_overkill": "УБИЙСТВО С ЗАПАСОМ",
     "style_oshaviolation": "<size=91%>НАРУШЕНИЕ ТБ</size>",
