@@ -178,8 +178,8 @@
     "prelude_first_parry": "<color=orange>УДАРЬТЕ СНАРЯД</color> в правильный момент, чтобы <color=orange>ОТРАЗИТЬ</color> его.",
     "prelude_first_hardDamage1": "Получение урона <color=orange>ВРЕМЕННО</color> понижает <color=orange>МАКСИМАЛЬНОЕ ЗДОРОВЬЕ</color>.",
     "prelude_first_hardDamage2": "«<color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color>» убывает быстрее при <color=orange>СТИЛЬНОЙ</color> игре.",
-    "prelude_first_groundSlam1": "<color=orange>УДАР ОЗЕМЬ</color> (",
-    "prelude_first_groundSlam2": ") наносит урон\nпри прямом попадании по врагу.",
+    "prelude_first_groundSlam1": "<color=orange>УДАР ОЗЕМЬ</color> ",
+    "prelude_first_groundSlam2": " наносит урон\nпри прямом попадании по врагу.",
     "prelude_second_shop": "В начале каждего уровня вы можете можете за свои <color=orange>ОЧКИ</color> покупать новое снаряжение в <color=orange>МАГАЗИНЕ</color>.",
     "prelude_second_doorClip": "«НЕ ЗНАЮ НИКАКИХ ДВЕРХНЫХ ПОДЪЁМОВ»$T. HAKITA",
     "prelude_second_changeEquipped": "Переключаться между <color=orange>ЭКИПИРОВАННМИ</color> оружиями можно на",
@@ -220,7 +220,7 @@
     "act1_secret": "Где-то в глубинах Лимба был запущен механизм."
   },
   "act2": {
-    "act2_greedSecond_sand": "ВРАГИ, ПОКРЫТЫЕ ПЕСКОМ, <color=red>НЕ ИСТЕКАЮТ КРОВЬЮ</color>",
+    "act2_greedSecond_sand": "ВРАГИ, ПОКРЫТЫЕ ПЕСКОМ, <color=red>НЕ ИСТЕКАЮТ КРОВЬЮ.</color>",
     "act2_greedThird_wallClip": "«ОТБРОСОВ БОЛЬШЕ НЕТ, НО ВОСПОМИНАНИЯ ОСТАНУТСЯ.» $T. HAKITA",
     "act2_greedThird_troll1": "Что-то страшное грядёт.",
     "act2_greedThird_troll2": "Шучу :)",
