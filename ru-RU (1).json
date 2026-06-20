@@ -1859,7 +1859,7 @@
     "shop_moneyCount": " очков",
     "shop_lotsOfMoney": "ОЧЕНЬ МНОГО ",
     "shop_equipped": "<size=78%>ЭКИПИРОВАНО</size>",
-    "shop_unequipped": "<size=67%>НЕЭКИПИРОВАНО</size>",
+    "shop_unequipped": "<size=67%>НЕ ЭКИПИРОВАНО</size>",
     "shop_cybergrindDescription1": "<color=#FF4343>Кибербойня</color> – бесконечный режим выживания.",
     "shop_cybergrindDescription2": "Хорошая игра даст много <color=#FF4343>очков</color>.",
     "shop_cybergrindDescription3": "<color=#FF4343>Прогресс в текущей миссии будет утерян.</color>",
