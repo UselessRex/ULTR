@@ -243,7 +243,7 @@
     "act2_greedSecret_transactionComplete1": "ПЕРЕВОД ЗАВЕРШЁН",
     "act2_greedSecret_transactionComplete2": "МОНЕТ",
     "act2_greed_secretDoor": "Дверь открылась.",
-    "act2_wrathFirst_whiplashHardDamage1": "<size=90%><color=>ХЛЫСТ</color>: накапливает <color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color> когда используется на <color=orange>ВРАГАХ</color>.",
+    "act2_wrathFirst_whiplashHardDamage1": "<size=90%>ХЛЫСТ</color>: накапливает <color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color> когда используется на <color=orange>ВРАГАХ</color>.",
     "act2_wrathFirst_whiplashHardDamage2": "<color=orange>НЕ МОЖЕТ УМЕНЬШАТЬ ЗДОРОВЬЕ</color>, однако, большой риск умереть используя его при низком здоровье.",
     "act2_wrathFirst_slingshot": "<color=#00FFFF>СИНИЕ ТОЧКИ ЗАЦЕПА</color> работают как рогатки.",
     "act2_wrathFirst_whiplashUnderwater": "ХЛЫСТ</color>: <color=orange>НЕ</color> наносит <color=#CCCCCC>ТЯЖЁЛЫЙ УРОН</color> <color=orange>ПОД ВОДОЙ</color>.",
