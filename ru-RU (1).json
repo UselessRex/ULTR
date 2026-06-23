@@ -2047,7 +2047,7 @@
     "shop_colorsDone": "ГОТОВО",
     "shop_colorsStandard": "<size=16>СТАНДАРТНЫЙ</size>",
     "shop_colorsAlternative": "АЛЬТЕР",
-    "shop_colorsCustomUnlockPrompt": "РАЗБЛОКИРОВАТЬ СВОЙ ЦВЕТ ДЛЯ"
+    "shop_colorsCustomUnlockPrompt": "РАЗБЛОКИРОВАТЬ СВОЙ ЦВЕТ НА"
   },
   "levelTips": {
     "leveltips_preludeSecond1": "Урон револьвера зависит от <color=#FF4343>места попадания</color>.",
