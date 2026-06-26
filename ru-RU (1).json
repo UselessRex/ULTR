@@ -2046,7 +2046,7 @@
     "shop_colorsCustom": "СВОЙ",
     "shop_colorsDone": "ГОТОВО",
     "shop_colorsStandard": "<size=16>СТАНДАРТНЫЙ</size>",
-    "shop_colorsAlternative": "АЛЬТЕР",
+    "shop_colorsAlternate": null,
     "shop_colorsCustomUnlockPrompt": "РАЗБЛОКИРОВАТЬ СВОЙ ЦВЕТ НА"
   },
   "levelTips": {
@@ -2915,7 +2915,316 @@
     "earlyAccessEnd2": "Слой 9: ПРЕДАТЕЛЬСТВО всё ещё в разработке",
     "earlyAccessEnd3": "Чтобы следить за новостями, подписывайтесь на нас в",
     "violenceScreenText1": "<size=70>Игра содержит сцены открытого\nнасилия и кровопролития.</size>",
-    "violenceScreenText2": "<size=70>Игра содержит сцены открытого\n<color=red>насилия</color> и <color=red>кровопролития</color>.</size>"
+    "violenceScreenText2": "<size=70>Игра содержит сцены открытого\n<color=red>насилия</color> и <color=red>кровопролития</color>.</size>",
+    "teleportLevels": {
+      "Level 1-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Arena": "АРЕНА",
+        " Main Hall": "ГЛАВНЫЙ ЗАЛ"
+      },
+      "Level 0-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Crusher Hallway": "КОРИДОР С ДРОБИТЕЛЕМ",
+        " Swordsmachine Arena Hallway": "ПУТЬ К БОЮ С МЕХАМЕЧНИКОМ",
+        " Swordsmachine Hallway": "КОРИДОР С МЕХАМЕЧНИКОМ"
+      },
+      "Level 0-S": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Tutorial": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Level 0-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Glass Intro": "СТЕКЛЯННАЯ КОМНАТА",
+        " Combo Hallway": "КОРИДОР-КОМБО",
+        "Boss Checkpoint": "КОНТРОЛЬНАЯ ТОЧКА ПЕРЕД БОССОМ",
+        " Projectile Zombies Room": "КОМНАТА С БРОДЯГАМИ",
+        " Projectile Arena": "АРЕНА С БРОДЯГАМИ"
+      },
+      "Level 0-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Menacing Room": "ОПАСНАЯ КОМНАТА",
+        " Second Encounter": "ВТОРОЙ БОЙ",
+        " Windtunnel": "ТУННЕЛЬ С ВЕТРОМ",
+        " First Encounter": "ПЕРВЫЙ БОЙ"
+      },
+      "Level 0-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Stairs Hallway": "КОРИДОР С ЛЕСТНИЦЕЙ",
+        " Pipes Hallway": "КОРИДОР С ТРУБАМИ"
+      },
+      "Level 0-5": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Smallway": "ВХОД К АРЕНЕ"
+      },
+      "Level 1-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Corner Hallway": "КОМНАТА ЗА УГЛОМ",
+        " Blue Skull Room": "КОМНАТА С СИНИМ ЧЕРЕПОМ",
+        " Castle Entrance Corridor": "ВХОД В ЗАМОК",
+        " Hall": "КОРИДОР С КАРТИНАМИ"
+      },
+      "Level 1-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Upper Way": "КОМНАТА С ВХОДОМ ВВЕРХУ",
+        " Castle Entrance": "ДВЕРЬ ПЕРЕД ПОСЛЕДНЕЙ АРЕНОЙ",
+        " Upper Way (2)": "КОМНАТА С ВХОДОМ ВВЕРХУ (2)"
+      },
+      "Level 1-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Tall Room": "БОЛЬШАЯ КОМНАТА",
+        " Final Arena": "ПОСЛЕДНЯЯ АРЕНА КРАСНОГО ПУТИ",
+        " Courtyard": "ДВОР",
+        " Secret Fight": "СЕКРЕТНЫЙ БОЙ",
+        " Courtyard (2)": "ФИНАЛЬНАЯ АРЕНА",
+        "B1-D Lava Hallway": "КОМНАТА С ЛАВОЙ",
+        " Blue Hallway": "ПЕРЕКРЁСТОК СИНЕГО ПУТИ",
+        " Second Arena": "АРЕНА ПОСЛЕ ДВОРА"
+      },
+      "Level 2-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Tower 1": "ВЕРХНЯЯ АРЕНА ПЕРВОЙ БАШНИ",
+        " Outdoors Arenas": "ПРОПАСТЬ"
+      },
+      "Level 2-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " First District": "ПЕРВЫЙ РАЙОН",
+        " Second District": "ВТОРОЙ РАЙОН",
+        " Laser Walkway": "СТЕКЛЯННЫЙ УГОЛ",
+        " Generator Room": "КОМНАТА С ГЕНЕРАТОРОМ"
+      },
+      "Level 2-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Final Arena": "ПОСЛЕДНЯЯ АРЕНА",
+        "1-2 Connector": "МОСТ МЕЖДУ КОМНАТАМИ",
+        "1-2 Connector (2)": "ВТОРОЙ МОСТ МЕЖДУ КОМНАТАМИ",
+        " Arena 2": "АРЕНА-ЗАВОД",
+        "3-2 Connector": "КРАСНЫЙ ЧЕРЕП"
+      },
+      "Level 2-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Second Encounter": "ВТОРАЯ АРЕНА",
+        " First Encounter": "ПЕРВАЯ АРЕНА"
+      },
+      "Level 3-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Stairways": "ЛЕСТНИЦЫ ИЗ КОСТЕЙ",
+        " Uphill Battle": "ПОСЛЕДНЯЯ КОМНАТА",
+        " Mouth Tunnel": "В ЗУБАХ",
+        " Bridge Arena": "АРЕНА С МОСТОМ ИЗ КОСТЕЙ",
+        " Big Arena": "БОЛЬШАЯ АРЕНА"
+      },
+      "Level 3-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Heart Chamber": "АРЕНА С СЕРДЦЕМ"
+      },
+      "Level 4-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Interior Hallway 2": "ПОСЛЕДНЯЯ АРЕНА",
+        " Tower": "БАШЕНКА",
+        " Platforms": "ПЛАТФОРМЫ",
+        " Virtue Arena": "АРЕНА С СИЛОЙ",
+        " Staircase Arena": "АРЕНА С ЭТАЖАМИ"
+      },
+      "Level 4-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Temple Entrance": "ВХОД В ХРАМ",
+        " Boss Arena": "АРЕНА БОССА",
+        " Solarium": "ЦЕНТР",
+        " More Platforming": "ПАРКУР"
+      },
+      "Level 4-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        "Stairs Hallway": "АРЕНА 4 ОГНЕЙ",
+        " Generator Room Hallway": "ПОСЛЕДНЯЯ АРЕНА",
+        " Traitor Hallway": "КОРИДОР С НАДПИСЬЮ"
+      },
+      "Level 4-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Boss Entrance": "ВРАТА БОССА"
+      },
+      "Level 5-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Water Processing Chamber": "ВОДОСНАБЖАЮЩАЯ КОМНАТА",
+        " Main Cave": "ЦЕНТР",
+        " Elevator": "ЛИФТОВАЯ ШАХТА",
+        "Tunnel A": "ТУННЕЛЬ А",
+        "Tunnel B": "ТУННЕЛЬ Б",
+        "Tunnel C": "ТУННЕЛЬ В"
+      },
+      "Level 5-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Broken Pier": "РАЗЛОМЛЕННЫЙ ПОРТ",
+        " Fort": "ДЕРЕВЯННЫЙ ФОРТ",
+        " Dark Hallway": "ТЁМНЫЙ КОРИДОР"
+      },
+      "Level 5-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Dual Wield Arena (Sunken)": "АРЕНА С УСИЛЕНИЕМ (ЗАТОПЛЕННАЯ)",
+        " Staircase (Sunken)": "ЛЕСТНИЦА (ЗАТОПЛЕННАЯ)",
+        " L Hallway": "ЛЕВЫЙ КОРИДОР",
+        " Lounge Bar": "ГОСТИНАЯ",
+        " Residence Corridor": "КОРИДОР С ЖИЛИЩАМИ",
+        " Hologram Room": "ГОЛОГРАММА"
+      },
+      "Level 5-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        "Surface": "АРЕНА"
+      },
+      "Level 6-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Chapel (Entrance)": "ПРИТВОР",
+        " City Skyline": "ГОРОДСКОЙ ПЕЙЗАЖ",
+        " Hall of Sacreligious Remains": "ЗАЛЫ СВЯТОТАТСТВЕННЫХ ОСТАНКОВ",
+        " Crossroads": "ПЕРЕКРЁСТКИ",
+        " Lava Chasm": "ЛАВОВАЯ ПРОПАСТЬ"
+      },
+      "Level 6-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Organ Hall": "ОРГАННЫЙ ЗАЛ"
+      },
+      "Level 7-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Pillar Hall": "ЗАЛ С КОЛОННАМИ",
+        " Underground Tunnels": "ТУННЕЛИ",
+        "Mannequin Room": "КОМНАТА С МАНЕКЕНАМИ",
+        "Walkway Arena": "ДВУХЭТАЖНАЯ АРЕНА"
+      },
+      "Level 7-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Corner Staircase": "ЛЕСТНИЧНАЯ КЛЕТКА",
+        " Outdoors Start": "ВЫХОД НАРУЖУ",
+        " Tram Station": "ЖЕЛЕЗНОДОРОЖНАЯ ОСТАНОВКА",
+        " Bomb Station": "ОСТАНОВКА С БОМБОЙ",
+        " Forgotten Archive": "ЗАБЫТЫЙ АРХИВ"
+      },
+      "Level 7-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Forest Path": "ТРОПА В ЛЕСУ",
+        " Central Plaza Upper": "МОСТ НАД ГЛАВНОЙ ДВЕРЬЮ",
+        " Circular Garden": "КРУГЛЫЙ САД",
+        " Grand Hall": "ГЛАНЫЙ ЗАЛ"
+      },
+      "Level 7-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        "Leg": "НОГА",
+        "Front": "ГРУДЬ",
+        "Back": "СПИНА",
+        "Interior": "НУТРО",
+        "Brain": "МОЗГ"
+      },
+      "Level 8-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " TV Room / Hotel Hallway": "КОРИДОР ИЗ ТЕЛЕВИЗОРА",
+        "  Fountain Room": "КОМНАТА С ФОНТАНА",
+        " Stretch Room": "УВЕЛИЧИВАЮЩАЯСЯ КОМНАТА",
+        "Outside": "ГОРОД",
+        " Busted Hotel Rooms": "ПОГРОМЛЕННЫЙ ГОСТИНИЧНЫЙ НОМЕР",
+        " Fake Floor Arena": "АРЕНА-ОБМАНКА",
+        "building Arena": "АРЕНА-МОСТ"
+      },
+      "Level 8-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Storage Room": "СКЛАД",
+        "Down Hallway": "КОРИДОР ВВЕРХ-ВНИЗ",
+        " Island": "ОСТРОВКИ",
+        "Shaped Hallway": "ПОВЁРНУТЫЙ КОРИДОР",
+        " Crossroad": "ПЕРЕКРЁСТОК",
+        " Hub": "ЦЕНТР",
+        " Mirror Reaper Arena": "АРЕНА ЗАЗЕРКАЛЬНОГО ЖНЕЦА",
+        " Supermarket Shutters": "ЖАЛЮЗИ В СУПЕРМАРКЕТЕ"
+      },
+      "Level 8-4": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        "Elevator": "ЛИФТ"
+      },
+      "CreditsMuseum2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Level 1-S": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Level 2-S": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Level 4-S": {
+        "First Room": "НАЧАЛО",
+        " Basics": "ПЕРВАЯ ТОЧКА (СНАРУЖИ)",
+        " Basics (2)": "ВТОРАЯ ТОЧКА (СНАРУЖИ)",
+        " Basics (3)": "ТРЕТЬЯ ТОЧКА (СНАРУЖИ)",
+        " Inside": "ПЕРВАЯ ТОЧКА (ВНУТРИ)",
+        " Inside (2)": "ВТОРАЯ ТОЧКА (ВНТУРИ)",
+        " Distant Sidescroller": "ИНТЕРМЕЦЦО",
+        " Boulder Run": "ПОБЕГУШКИ ОТ КАМНЯ"
+      },
+      "Level 5-S": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Level 7-S": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        "Lounge": "ГОСТИНАЯ",
+        "Library": "БИБЛИОТЕКА",
+        "Courtyard": "ДВОР",
+        "Fake Exit": "НЕНАСТОЯЩИЙ ВЫХОД"
+      },
+      "Level 0-E": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Boss Arena": "ЧЕРЕПА",
+        " Hallway": "КОРИДОР",
+        " Crossroads": "ПЕРЕКРЁСТОК",
+        " Tube Hallways": "КОРИДОР С ТРУБАМИ",
+        " Projectile Zombies Room": "КОМНАТА С ЛУЧЕЗАРНЫМ ТРАНШЕЙНИКОМ",
+        " Crossroads (2)": "ПЕРЕКРЁСТОК 2",
+        " Projectile Arena": "АРЕНА С КУЧЕЙ СНАРЯДОВ",
+        " Lava Foundry": "КОРИДОР ЛАВЫ (?)",
+        " First Encounter": "ПЕРВЫЙ БОЙ",
+        " Menacing Room": "ОПАСНАЯ КОМНАТА",
+        " Combo Hallway": "КОРИДОР-КОМБО",
+        " Fans Staircase": "ЛЕСТНИЦА С ВЕНТИЛЯТОРОМ"
+      },
+      "Level 1-E": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Prelude Hallway": "КОРИДОР ИЗ ПРЕЛЮДИИ",
+        " Opener": "ФИНАЛЬНАЯ АРЕНА",
+        " Lava Staircase": "ЛЕСТНИЦА С ПЕПЛОМ",
+        " Stairs Hallway / Castle Entrance": "ЛЕСТНИЦА С ЦЕРБЕРОМ/ВХОД В ЗАМОК",
+        " Waterfall Arena / Altar Field": "АРЕНА С ВОДОПАДОМ/АЛТАРЁМ",
+        " Castle Entrance": "ВХОД В ЗАМОК",
+        " Waterfall Arena / Altar Field (2)": "АРЕНА С ВОДОПАДОМ/АЛТАРЁМ 2"
+      },
+      "Level P-1": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Inner Sanctum": "ВНУТРИ СВЯТИЛИЩА"
+      },
+      "Level P-2": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        "Intro": "ПЕРВЫЙ БОЙ",
+        " Bridge Street": "УЛИЦА С МОСТОМ",
+        " Idol Arena": "АРЕНА С ИДОЛАМИ",
+        " Last Arena": "ПОСЛЕДНЯЯ АРЕНА",
+        " Boss Arena": "АРЕНА БОССА"
+      },
+      "Endless": {
+        "First Room": "СТАРТОВАЯ КОМНАТА"
+      },
+      "Level 8-3": {
+        "First Room": "СТАРТОВАЯ КОМНАТА",
+        " Space Tree": "ДЕРЕВО В КОСМОСЕ",
+        " Space Mass": "",
+        " Space Streets": "УЛИЦЫ В КОСМОСЕ",
+        "Space": "КОСМОС",
+        " Shifting Hallway": "ИЗМЕНЯЮЩИЙСЯ КОРИДОР",
+        " Fallway": "",
+        " Heart Chamber": "АРЕНА С СЕРДЦЕМ",
+        " Garage Loop": "",
+        " Split Color Door": "ДВУХЦВЕТНАЯ ДВЕРЬ",
+        " Dimensional Cave": "",
+        " Folded Hallway": "",
+        " Clockwork Crushers": "",
+        " Clockwork Climb": ""
+      }
+    }
   },
   "inputStrings": {
     "input_space": "Space",
