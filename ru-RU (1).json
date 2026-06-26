@@ -2046,7 +2046,7 @@
     "shop_colorsCustom": "СВОЙ",
     "shop_colorsDone": "ГОТОВО",
     "shop_colorsStandard": "<size=16>СТАНДАРТНЫЙ</size>",
-    "shop_colorsAlternate": null,
+    "shop_colorsAlternate": "АЛЬТЕР",
     "shop_colorsCustomUnlockPrompt": "РАЗБЛОКИРОВАТЬ СВОЙ ЦВЕТ НА"
   },
   "levelTips": {
